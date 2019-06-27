@@ -1,4 +1,7 @@
 # Введение в Kotlin JVM
+    
+   [Руководство по языку Kotlin](https://kotlinlang.ru/)
+    
    Курс ["Введение в Kotlin JVM"](https://stepik.org/course/5448/) соответствует формальным рекомендациям Stepik
 
 ### 1.Синтаксис и семантика
